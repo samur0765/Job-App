@@ -1,0 +1,95 @@
+{
+  "jobs": [
+    {
+      "position": "Data Analyst",
+      "company": "Al Vision",
+      "location": "İstanbul, Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "c1c7f9d1-dcf4-4b51-994f-499f8710f072",
+      "date": "2024-05-01"
+    },
+    {
+      "id": "3a48eef4-2850-4b8d-83a2-aed6b10b37f8",
+      "position": "Data Analyst",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": 1720552344626,
+      "rejection_date": 1720552344626
+    },
+    {
+      "position": "Softwatre Tester",
+      "company": "Amazon",
+      "location": "İstanbul, Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "2024-12-06",
+      "id": "cQjjOZG"
+    },
+    {
+      "id": "bf8c",
+      "position": "CEO",
+      "company": "DataFlow",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "2025-05-01"
+    },
+    {
+      "id": "f467",
+      "position": "Backend Developer",
+      "company": "Udemig",
+      "location": "New York",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "2025-05-09"
+    },
+    {
+      "id": "822f",
+      "position": "Full Stack Developer",
+      "company": "Al Vision",
+      "location": "New York",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "2025-05-04"
+    },
+    {
+      "id": "b82e",
+      "position": "Product Manager",
+      "company": "Al Vision",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "2025-05-09"
+    },
+    {
+      "id": "904f",
+      "position": "Frontend DEveloper",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "2025-05-01"
+    },
+    {
+      "id": "6d83",
+      "position": "Backend Developer",
+      "company": "Coca Cola",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "rejection_date": "2025-05-10"
+    },
+    {
+      "id": "ce44",
+      "position": "Product Manager",
+      "company": "TechSoft",
+      "location": "İstanbul, Türkiye",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "rejection_date": "2025-05-12"
+    }
+  ]
+}

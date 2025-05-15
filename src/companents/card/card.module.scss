@@ -1,0 +1,91 @@
+.card {
+  background-color: #afa0a0;
+  padding: 15px 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(245, 245, 245, 0.3);
+  font-size: 16px;
+
+  .head {
+    display: flex;
+    justify-content: space-between;
+    & > div {
+      display: flex;
+      gap: 15px;
+    }
+
+    h1 {
+      display: grid;
+      place-items: center;
+      font-size: 30px;
+      width: 50px;
+      height: 50px;
+      border-radius: 6px;
+      background-color: #7a5454;
+    }
+
+    .buttons {
+      display: flex;
+      align-items: center;
+
+      button {
+        font-size: 20px;
+        color: black;
+        cursor: pointer;
+        transition: color 0.3s;
+
+        &:hover {
+          color: white;
+        }
+      }
+    }
+    .info {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+  }
+
+  .line {
+    height: 1px;
+    background-color: #7a5454;
+    width: 90%;
+    margin: 15px auto;
+  }
+
+  .body {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 15px;
+
+    svg {
+      color: rgba(79, 51, 51, 0.8);
+    }
+
+    p {
+      display: flex;
+      gap: 5px;
+    }
+
+    .bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      span:nth-child(1) {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        font-size: 14px;
+        white-space: nowrap;
+      }
+      span:nth-child(2) {
+        background: rgba(125, 79, 79, 0.8);
+        padding: 5px 10px;
+        border-radius: 6px;
+        font-size: 15px;
+        white-space: nowrap;
+      }
+    }
+  }
+}

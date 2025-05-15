@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: darkgray;
+  color: black;
+  font-family: "Tagesschrift", system-ui;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+input {
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: #0000;
+  padding: 5px 10px;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+}

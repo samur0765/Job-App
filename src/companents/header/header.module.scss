@@ -1,0 +1,45 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(149, 105, 105);
+  padding: 5px 20px 0 20px;
+  @media (min-width: 900px) {
+    padding: 10px 20px 0 20px;
+    a {
+      padding: 25px 0 !important;
+    }
+    img {
+      width: 50px !important;
+    }
+  }
+
+  @media (max-width: 900px) {
+    h2 {
+      display: none;
+    }
+  }
+
+  div {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    img {
+      width: 40px;
+    }
+  }
+
+  nav {
+    display: flex;
+    gap: 20px;
+
+    a {
+      padding: 15px 0;
+    }
+  }
+}
+
+.active {
+  color: black;
+  border-bottom: 2px solid black;
+}
