@@ -24,4 +24,4 @@ Reddedildi
 
 # 📸 Ekran Görüntüsü
 
-![](kayıt.gif)
+![](public/kayıt.gif)
